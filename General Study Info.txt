@@ -1,6 +1,8 @@
 http://www.cs.toronto.edu/~urtasun/courses/teaching.html (Toronto University)
 
-Supervised Learning: 
+Supervised Learning: Linear regression (Curve fitting)/Logistic Regression (classification, gradient method) 
+                     /NN (function approximator,Multi-classification, back propagation)
+                     /Support Vector Machine
 
 Unsupervised Learning: PCA
 
