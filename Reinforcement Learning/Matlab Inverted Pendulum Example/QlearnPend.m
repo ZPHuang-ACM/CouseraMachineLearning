@@ -48,7 +48,7 @@ startPt = [pi,0];
 maxEpi = 2000; % Each episode is starting with the pendulum down and doing continuous actions for awhile. (Run 2000 trials)
 maxit = 1500; % Iterations are the number of actions taken in an episode. (Each trial run 1500 control action steps)
 substeps = 2; % Number of physics steps per iteration (could be 1, but more is a little better integration of the dynamics)
-dt = 0.05; % Timestep of integration. Each substep lasts this long (10 Hz for each control action00000000000000000000000000000000000000000000, can be a bit )
+dt = 0.05; % Timestep of integration. Each substep lasts this long (10 Hz for each control action, can be a bit )
 
 % Torque limits -- bang-bang control
 tLim = 1;

@@ -4,6 +4,6 @@ Supervised Learning: Linear regression (Curve fitting)/Logistic Regression (clas
                      /NN (function approximator,Multi-classification, back propagation)
                      /Support Vector Machine
 
-Unsupervised Learning: PCA
+Unsupervised Learning: PCA/K-means
 
-Reinforcement Learning: 
+Reinforcement Learning: Q-Table (Bellman Equation)/ Inverted Pendulum
